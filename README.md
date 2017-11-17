@@ -3,6 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/datasette.svg)](https://pypi.python.org/pypi/datasette)
 [![Travis CI](https://travis-ci.org/simonw/datasette.svg?branch=master)](https://travis-ci.org/simonw/datasette)
 [![Documentation Status](https://readthedocs.org/projects/datasette/badge/?version=latest)](http://datasette.readthedocs.io/en/latest/?badge=latest)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fdatasette.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fdatasette?ref=badge_shield)
 
 *An instant JSON API for your SQLite databases*
 
@@ -102,6 +103,9 @@ http://localhost:8001/History/downloads.jsono will return that data as JSON in a
       -m, --metadata FILENAME      Path to JSON file containing license/source
                                    metadata
       --help                       Show this message and exit.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fdatasette.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fdatasette?ref=badge_large)
 
 ## metadata.json
 
